@@ -1,0 +1,11 @@
+{
+  "name":"mewthu2/pixqrcode",
+  "autoload":{
+    "psr-4":{
+      "APP\\":"app/"
+    }
+  },
+  "require": {
+    "mpdf/qrcode": "^1.2"
+  }
+}
